@@ -1,0 +1,19 @@
+body {
+  background-color: #293250;
+}
+h1 {
+  color: #6dd47e;
+  font-family: "Source Code Pro", monospace;
+  background-color: #293250;
+}
+header {
+  background-color: #293250;
+  margin: auto;
+  text-align: center;
+}
+button {
+  color: #ffd55a;
+  background-color: #6dd47e;
+  border: none;
+  padding: 10px 20px;
+}
