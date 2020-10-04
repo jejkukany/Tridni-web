@@ -1,19 +1,23 @@
 body {
-  background-color: #293250;
+  background-color: black;
 }
 h1 {
-  color: #6dd47e;
+  color: white;
   font-family: "Source Code Pro", monospace;
-  background-color: #293250;
+  background-color: black;
 }
 header {
-  background-color: #293250;
+  background-color: black;
   margin: auto;
   text-align: center;
 }
 button {
-  color: #ffd55a;
-  background-color: #6dd47e;
+  color:  white;
+  background-color: black;
   border: none;
   padding: 10px 20px;
+}
+p{
+  font-size: 20;
+  color:#6dd47e;
 }
